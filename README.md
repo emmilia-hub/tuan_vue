@@ -19,5 +19,6 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-### US:XTU
+### US：XTU
 Wenqi Yanghuan Xiangyaxin Lixuan Luhanxiang
+connection：wenq_mar@163.com
